@@ -1,5 +1,5 @@
 # HttpRequestPHP
-This is a simple class written in php that bring you an easy way make http request to an API (or any http service) and handle the response.
+This is a simple class written in php that bring you an easy way make to http request to an API (or any http service) and handle the response.
 
 This class contents an static function that allow send a request to a server and handle the response as a php array.
 
